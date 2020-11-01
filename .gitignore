@@ -1,3 +1,6 @@
+# Data files:
+project2_naive_bayes/data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
