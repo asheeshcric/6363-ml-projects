@@ -7,7 +7,7 @@
 
 ### Steps to run the code
 - Please make sure that the data file `iris.data` is in the following relative path from the main code file: `data/iris.data`. The data file is included with the zipped file in case you run it directly from the downloaded folder.
-- python3 k_means.py
+- Command to run the code: `python3 k_means.py`
 
 ### NOTES
 - Figures are saved in the same directory where the code file exists as 3-clusters.png, 5-clusters.png, and 7-clusters.png
