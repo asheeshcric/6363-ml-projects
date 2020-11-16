@@ -6,6 +6,7 @@
 - pip3 install numpy matplotlib
 
 ### Steps to run the code
+- Please make sure that the data file `iris.data` is in the following relative path from the main code file: `data/iris.data`. The data file is included with the zipped file in case you run it directly from the downloaded folder.
 - python3 k_means.py
 
 ### NOTES
