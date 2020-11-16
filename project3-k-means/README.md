@@ -8,7 +8,7 @@
 ### Steps to run the code
 - python3 k_means.py
 
-#### Figures are saved in the same directory where the code file exists as 3-clusters.png, 5-clusters.png, and 7-clusters.png
-
-#### The k_means.pdf file is extracted from the notebook where I experimented with the algorithm along with its outputs. So, you can refer to that pdf to see how I approached the problem.
-
+### NOTES
+- Figures are saved in the same directory where the code file exists as 3-clusters.png, 5-clusters.png, and 7-clusters.png
+- The `k_means.pdf` file is extracted from the notebook where I experimented with the algorithm along with its outputs. So, you can refer to that pdf to see how I approached the problem.
+- I selected the number of clusters to be either 3 or 5 (based on the availability of the labels -- explained in the report in detail)
